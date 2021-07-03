@@ -6,7 +6,12 @@
 - My Coinbase Email rakib.remon99@gmail.com
 
 Donate:
+
+
+
 <a href="https://www.bitcoinqrcodemaker.com"><img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&amp;address=327dZjeWci6L7tyQWU1RxRszfiwEG1s8Tf" alt="Bitcoin QR Code Generator" height="300" width="300" border="0" /></a>
+
+<a href="https://www.bitcoinqrcodemaker.com"><img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoincash&amp;address=15q3QeC3NJQqL1ZVLTMwWEQwCiQYS2yAu1" alt="Bitcoin Cash QR Code Generator" height="300" width="300" border="0" /></a>
 <!---
 RakibRyan/RakibRyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
