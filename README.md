@@ -5,7 +5,7 @@
 - How to reach me rakib.remon99@gmail.com
 - My Coinbase Email rakib.remon99@gmail.com
 
-Donate:
+
 <p float="left">
   <img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&amp;address=327dZjeWci6L7tyQWU1RxRszfiwEG1s8Tf" alt="Bitcoin" width="200" />
   <img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoincash&amp;address=15q3QeC3NJQqL1ZVLTMwWEQwCiQYS2yAu1" alt="Bitcoin Cash" width="200" /> 
