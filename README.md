@@ -7,6 +7,20 @@
 
 Donate:
 
+/* Three image containers (use 25% for four, and 50% for two, etc) */
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clear floats after image containers */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
 <div class="row">
   <div class="column">
     <img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&amp;address=327dZjeWci6L7tyQWU1RxRszfiwEG1s8Tf" alt="Bitcoin QR Code Generator" style="width:100%">
