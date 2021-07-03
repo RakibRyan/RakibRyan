@@ -6,32 +6,13 @@
 - My Coinbase Email rakib.remon99@gmail.com
 
 Donate:
+<p float="left">
+  <img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&amp;address=327dZjeWci6L7tyQWU1RxRszfiwEG1s8Tf" alt="Bitcoin QR Code Generator" width="100" />
+  <img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&amp;address=327dZjeWci6L7tyQWU1RxRszfiwEG1s8Tf" alt="Bitcoin QR Code Generator" width="100" /> 
+  <img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&amp;address=327dZjeWci6L7tyQWU1RxRszfiwEG1s8Tf" alt="Bitcoin QR Code Generator" width="100" />
+</p>
 
-/* Three image containers (use 25% for four, and 50% for two, etc) */
-.column {
-  float: left;
-  width: 33.33%;
-  padding: 5px;
-}
 
-/* Clear floats after image containers */
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
-
-<div class="row">
-  <div class="column">
-    <img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&amp;address=327dZjeWci6L7tyQWU1RxRszfiwEG1s8Tf" alt="Bitcoin QR Code Generator" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoincash&amp;address=15q3QeC3NJQqL1ZVLTMwWEQwCiQYS2yAu1" alt="Bitcoin Cash QR Code Generator" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://www.bitcoinqrcodemaker.com/api/?style=ethereum&amp;address=0x17C685A7eF1132B176E0A16264FF70a83Ae84D0E" alt="Ethereum QR Code Generator" style="width:100%">
-  </div>
-</div>
 
 <a href="https://www.bitcoinqrcodemaker.com"><img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&amp;address=327dZjeWci6L7tyQWU1RxRszfiwEG1s8Tf" alt="Bitcoin QR Code Generator" height="300" width="300" border="0" /></a>
 
