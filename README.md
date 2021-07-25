@@ -3,7 +3,7 @@
 - I’m currently learning Python & inner wrokings of a computer via Nand2Tetris 
 - I’m looking to collaborate on fun projects
 - How to reach me rakib.remon99@gmail.com
-- My Coinbase Email rakib.remon99@gmail.com
+
 
 
 
