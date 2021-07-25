@@ -6,12 +6,6 @@
 - My Coinbase Email rakib.remon99@gmail.com
 
 
-<p float="left">
-  <img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoin&amp;address=327dZjeWci6L7tyQWU1RxRszfiwEG1s8Tf" alt="Bitcoin" width="150" />
-  <img src="https://www.bitcoinqrcodemaker.com/api/?style=bitcoincash&amp;address=15q3QeC3NJQqL1ZVLTMwWEQwCiQYS2yAu1" alt="Bitcoin Cash" width="150" /> 
-  <img src="https://www.bitcoinqrcodemaker.com/api/?style=ethereum&amp;address=0x17C685A7eF1132B176E0A16264FF70a83Ae84D0E" alt="Ethereum" width="150" />
-</p>
-
 
 <!---
 RakibRyan/RakibRyan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
