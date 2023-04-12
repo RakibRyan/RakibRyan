@@ -52,11 +52,12 @@ I'm an indie full-stack developer and content creator building my version of the
 [![The story behind the name "Linux"](https://ytcards.demolab.com/?id=QjoKwulmS4U&title=The+story+behind+the+name+%22Linux%22&lang=en&timestamp=1678622419&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=58 "The story behind the name \"Linux\"")](https://www.youtube.com/watch?v=QjoKwulmS4U)
 [![Tools EVERY Software Engineer Should Know](https://ytcards.demolab.com/?id=D4JkWoUovdo&title=Tools+EVERY+Software+Engineer+Should+Know&lang=en&timestamp=1678375804&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=960 "Tools EVERY Software Engineer Should Know")](https://www.youtube.com/watch?v=D4JkWoUovdo)
 // END YOUTUBE-CARDS
+-->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
 #
--->
+
 ### 📊 Stats
 
 --![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakibRyan&show_icons=true&theme=gruvbox)
