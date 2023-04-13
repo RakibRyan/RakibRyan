@@ -1,8 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
-<img align="right" alt="Coding" width="200" src="https://github.com/RakibRyan/RakibRyan/blob/main/images.png">
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
+<h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
@@ -37,12 +36,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavchanda&&theme=tokyonight" alt="rishavchanda" /></p>
 
-<!-- # 🏄‍♂️ Rakib Ryan
+# 🏄‍♂️ Rakib Ryan
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
 I'm an indie developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my Hobbyist YouTube channel <!-- "[ ][youtube]" to more than 400k subscribers. -->
-<!--
+
    <p align="left">
       <a href="  ">
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
@@ -79,7 +78,7 @@ I'm an indie developer and content creator building my version of the digital wo
 
 #
 
-<!-- 
+
 
 ### 📺 Latest YouTube Videos
 
@@ -101,19 +100,19 @@ I'm an indie developer and content creator building my version of the digital wo
 
 ![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RakibRyan&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
 
 #
-<!--
+
 <details>
  <summary><h3>👨‍💻 Ryan's Coding Journey</h3></summary>
    I started my coding journey as a naive Physics student with a passion to learn how something work. My passion of discovery took me to find out how some logic gates could do such complex things. In search for the answer I found myself at the doorsteps of NandToTetris & Unity. & I fell in love with computer hardware & software. Soon I had a dearm to make my own useful apps & inspiring games. A desire that landed me at the doorsteps of learning unity. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. 
 
 
-<!-- 
+
 [website]: https://fkcodes.com
 [youtube]: https://youtube.com/fknight
--->
+
 
 
 
