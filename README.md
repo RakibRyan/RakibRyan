@@ -1,4 +1,4 @@
-[![MasterHead]([Banner.gif](https://github.com/RakibRyan/RakibRyan/blob/main/Banner.gif))](https://rishavchanda.io)
+[![MasterHead]([Banner.gif](https://raw.githubusercontent.com/RakibRyan/RakibRyan/main/Banner.gif?token=GHSAT0AAAAAACANO6YOAXHGXC3JH7PWQHN4ZBX5BJQ))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
