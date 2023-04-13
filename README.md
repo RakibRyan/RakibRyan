@@ -82,7 +82,7 @@ I'm an indie developer and content creator building my version of the digital wo
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibryan&label=Profile%20views&color=0e75b6&style=flat" alt="rakibryan" /> </p>
 
-<p align="left" width="30px"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibryan" alt="rakibryan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibryan" alt="rakibryan" width="800px" /></a> </p>
 
 - 🌱 I’m currently learning **Unity**
 
