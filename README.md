@@ -123,7 +123,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 
 #
 
-<h2>Github Trophies</h2>
+<h2><img width ="20px" src="TestyMildBunting-size-restrict-unscreen.gif">Github Trophies </h2>
 
 <p align="left" style="padding-right:10px;> <img src="https://komarev.com/ghpvc/?username=rakibryan&label=Profile%20views&color=0e75b6&style=flat" alt="rakibryan" /> </p>
 
