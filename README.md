@@ -28,17 +28,19 @@ I'm an indie developer and content creator from Bangladesh building my version o
 
 <img align="right" alt="Coding" width="400" src="https://github.com/RakibRyan/RakibRyan/blob/main/68747470733a2f2f63646e2e647269-unscreen.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibryan&label=Profile%20views&color=0e75b6&style=flat" alt="Ryan" /> </p>
+<!--
+<p align="left"> <a href="  " target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="ryan" /></a> </p>
+-->
+<!--
+-  🌱I’m currently working on **Buckoid Android App**
+-->
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
-
-- 🔭 I’m currently working on **Buckoid Android App**
-
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **Android , MEARN**
-
-- 📫 How to reach me **rishavchanda0@gmail.com**
+- 🔭 I’m currently learning **Unity**
+<!--
+- 💬 Ask me about **Android , **
+-->
+- 📫 How to reach me **rakib.remon12@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
