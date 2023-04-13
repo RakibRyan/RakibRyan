@@ -44,7 +44,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 - 👨‍💻 All of my projects are available [here](https://github.com/RakibRyan)
 
 - ⚡ Fun fact **I can speak three different languages fluently.**
-<h2><img width="18px" src="https://github.com/RakibRyan/RakibRyan/blob/main/amazon-networking.svg"> Languages and Tools: </h2>
+<h2><img width="18px" src="https://github.com/RakibRyan/RakibRyan/blob/main/connectivity.png"> Languages and Tools: </h2>
 
 <h3 align="left"> Connect with me:</h3>
 
