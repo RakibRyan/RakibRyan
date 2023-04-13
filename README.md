@@ -10,7 +10,7 @@
 
 I'm an indie developer and content creator from Bangladesh building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my Hobbyist YouTube channel. <!-- "[ ][youtube]" to more than 400k subscribers. -->
 
-#
+
 
    <p align="left">
       <a href="  ">
@@ -23,10 +23,10 @@ I'm an indie developer and content creator from Bangladesh building my version o
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+#
 
 
-
-<img align="right" alt="Coding" width="400" src="https://github.com/RakibRyan/RakibRyan/blob/main/68747470733a2f2f63646e2e647269-unscreen.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/RakibRyan/RakibRyan/blob/main/coder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibryan&label=Profile%20views&color=0e75b6&style=flat" alt="Ryan" /> </p>
 <!--
@@ -44,7 +44,9 @@ I'm an indie developer and content creator from Bangladesh building my version o
 
 - ⚡ Fun fact **I am Funny**
 
-<h3 align="left">Connect with me:</h3>
+
+<img align="left" width="35px" src="https://github.com/RakibRyan/RakibRyan/blob/main/icons8-connect-unscreen.gif" alt="" /><h3 align="left">Connect with me:</h3>
+
 <p align="left">
 <a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rishav-chanda-b89a791b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishav-chanda-b89a791b3" height="30" width="40" /></a>
