@@ -4,7 +4,7 @@
 </p>
 
 
-# 🏄‍♂️ Hi 👋, I'm Ryan <img width="300px" src="https://github.com/RakibRyan/RakibRyan/blob/main/pacman.gif" /> 
+# 🏄‍♂️ Hi 👋, I'm Ryan <img align="right" width="200px" src="https://github.com/RakibRyan/RakibRyan/blob/main/pacman.gif" /> 
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
