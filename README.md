@@ -44,9 +44,9 @@ I'm an indie developer and content creator from Bangladesh building my version o
 - 👨‍💻 All of my projects are available [here](https://github.com/RakibRyan)
 
 - ⚡ Fun fact **I can speak three different languages fluently.**
-<h2><img width="18px" src="https://github.com/RakibRyan/RakibRyan/blob/main/connectivity.png"> Languages and Tools: </h2>
 
-<h3 align="left"> Connect with me:</h3>
+
+<h2><img width="18px" src="https://github.com/RakibRyan/RakibRyan/blob/main/connectivity.png"> Connect with me: </h2>
 
 <p align="left">
 <a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
@@ -123,7 +123,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 
 #
 
-<h2><img width ="20px" src="TestyMildBunting-size-restrict-unscreen.gif">Github Trophies </h2>
+<h2><img width ="20px" src="TestyMildBunting-size-restrict-unscreen.gif">🏆 Github Trophies </h2>
 
 <p align="left" style="padding-right:10px;> <img src="https://komarev.com/ghpvc/?username=rakibryan&label=Profile%20views&color=0e75b6&style=flat" alt="rakibryan" /> </p>
 
