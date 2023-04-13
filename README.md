@@ -8,7 +8,9 @@
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
-I'm an indie developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my Hobbyist YouTube channel <!-- "[ ][youtube]" to more than 400k subscribers. -->
+I'm an indie developer and content creator from Bangladesh building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my Hobbyist YouTube channel. <!-- "[ ][youtube]" to more than 400k subscribers. -->
+
+#
 
    <p align="left">
       <a href="  ">
@@ -22,8 +24,8 @@ I'm an indie developer and content creator building my version of the digital wo
    </p>
 
 
-<h1 align="center">Hi 👋, I'm Ryan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+
 <img align="right" alt="Coding" width="400" src="https://github.com/RakibRyan/RakibRyan/blob/main/68747470733a2f2f63646e2e647269-unscreen.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
