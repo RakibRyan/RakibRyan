@@ -60,7 +60,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 
 
 #
-<h2><img width="18px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"> Languages and Tools: </h2>
+<h1><img width="24px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"> Languages and Tools: </h1>
 
 
 <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> 
