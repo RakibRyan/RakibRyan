@@ -1,41 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Image in a Circle</title>
-	<style>
-		.container {
-			position: relative;
-			width: 100%;
-			height: 400px;
-			background-image: url(your_background_image_url_here.jpg);
-			background-position: center;
-			background-size: cover;
-		}
-		
-		.circle {
-			position: absolute;
-			left: 50%;
-			bottom: -25%;
-			transform: translate(-50%, 50%);
-			width: 150px;
-			height: 150px;
-			border-radius: 50%;
-			overflow: hidden;
-			z-index: 1;
-		}
-		
-		.circle img {
-			width: 100%;
-			height: 100%;
-			object-fit: cover;
-		}
-	</style>
+	<title>Image on top of GIF</title>
 </head>
 <body>
-	<div class="container">
-		<div class="circle">
-			<img src="your_image_url_here.jpg" alt="your_image_alt_text_here">
-		</div>
+	<div style="position: relative; width: 400px; height: 400px;">
+		<img src="your_gif_url_here.gif" alt="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io" style="position: absolute; left: 0; top: 0; width: 100%; height: 100%;">
+		<img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io" alt="your_image_alt_text_here" style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); width: 150px; height: 150px;">
 	</div>
 </body>
 </html>
