@@ -3,6 +3,10 @@
     <img src="https://media.giphy.com/media/hdUaosS571W7aZByCP/giphy.gif" style="width: 100%; max-width: 1200px;">
   </a>
 </div>
+<p align="center">
+  <img src="https://media.giphy.com/media/hdUaosS571W7aZByCP/giphy.gif" width="100%">
+</p>
+
 
 [![MasterHead](https://media.giphy.com/media/hdUaosS571W7aZByCP/giphy.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ryan</h1>
