@@ -58,7 +58,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 
 #
 
-<img align="left" width="30px" src="https://github.com/RakibRyan/RakibRyan/blob/main/Cubes.gif" alt="rakibryan" /><h3>GitHub activity Stats</h3>
+<img align="left" width="35px" src="https://github.com/RakibRyan/RakibRyan/blob/main/Cubes.gif" alt="rakibryan" /><h3>GitHub activity Stats</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibryan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rakibryan" /></p>
 
