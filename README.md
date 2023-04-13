@@ -95,7 +95,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://github.com/RakibRyan/RakibRyan/blob/main/c-sharp.pngg" alt="c#" width="40" height="40"/> </a> 
+<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://github.com/RakibRyan/RakibRyan/blob/main/c-sharp.png" alt="c#" width="40" height="40"/> </a> 
 
 </p>
 
