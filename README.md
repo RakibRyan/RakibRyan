@@ -56,10 +56,12 @@ I'm an indie developer and content creator from Bangladesh building my version o
 </p>
 
 
+#
 
+<img align="left" width="500px" src="https://github.com/RakibRyan/RakibRyan/blob/main/200w-unseen.gif"/>
 
-
-<img align="left" width="70px" src="https://github.com/RakibRyan/RakibRyan/blob/main/200w-unseen.gif"/><h3>Languages and Tools:<img align="left" width="30px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"/></h3>
+#
+<h3>Languages and Tools:<img align="left" width="20px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"/></h3>
 
 <p align="left"> 
 
