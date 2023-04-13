@@ -80,7 +80,7 @@ I'm an indie developer and content creator building my version of the digital wo
 <h1 align="center">Hi 👋, I'm Rakib Ryan</h1>
 <h3 align="center">Digital Craftsman</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibryan&label=Profile%20views&color=0e75b6&style=flat" alt="rakibryan" /> </p>
+<p align="left" style="padding-right:10px;> <img src="https://komarev.com/ghpvc/?username=rakibryan&label=Profile%20views&color=0e75b6&style=flat" alt="rakibryan" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibryan" alt="rakibryan" width="800px" /></a> </p>
 
