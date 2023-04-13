@@ -1,3 +1,9 @@
+<div style="width: 100%; display: flex; justify-content: center;">
+  <a href="https://rishavchanda.io">
+    <img src="https://media.giphy.com/media/hdUaosS571W7aZByCP/giphy.gif" style="width: 100%; max-width: 1200px;">
+  </a>
+</div>
+
 [![MasterHead](https://media.giphy.com/media/hdUaosS571W7aZByCP/giphy.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ryan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
