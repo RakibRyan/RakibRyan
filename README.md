@@ -114,7 +114,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 <details>
 <summary><h3>Ryan's Coding Journey</h3></summary>
    I started my coding journey as a naive Physics student with a passion to learn how something work. My passion of discovery took me to find out how some logic gates could do such complex things. In search for the answer I found myself at the doorsteps of NandToTetris & Unity. & I fell in love with computer hardware & software. Soon I had a dearm to make my own useful apps & inspiring games. A desire that landed me at the doorsteps of learning unity. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. 
-
+</details>
 
 
 
