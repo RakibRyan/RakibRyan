@@ -46,7 +46,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 - ⚡ Fun fact **I can speak three different languages fluently.**
 
 
-<img align="left" width="25px" src="https://github.com/RakibRyan/RakibRyan/blob/main/smile.gif"/><h3 align="left">Connect with me:</h3>
+<img align="left" width="25px" src="https://github.com/RakibRyan/RakibRyan/blob/main/shape-transform.gif" alt="" /><h3 align="left">Connect with me:</h3>
 
 <p align="left">
 <a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
