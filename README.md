@@ -4,9 +4,9 @@
 </p>
 
 
-#  Hi 👋, I'm Ryan <img align="center" width="180px" src="https://github.com/RakibRyan/RakibRyan/blob/main/pacman.gif" /> 
+# 🏄‍♂️ Hi 👋, I'm Ryan 
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Digital Craftsman (Developer/Filmmaker/Creator)`** <img align="center" width="100px" src="https://github.com/RakibRyan/RakibRyan/blob/main/pacman.gif" /> 
 
 I'm an indie developer and content creator from Bangladesh building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my Hobbyist YouTube channel. <!-- "[ ][youtube]" to more than 400k subscribers. -->
 
