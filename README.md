@@ -26,7 +26,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 #
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/RakibRyan/RakibRyan/blob/main/coder.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/RakibRyan/RakibRyan/blob/main/200w-unscreen.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibryan&label=Profile%20views&color=0e75b6&style=flat" alt="Ryan" /> </p>
 <!--
@@ -46,7 +46,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 - ⚡ Fun fact **I can speak three different languages fluently.**
 
 
-<h3 align="left"> <img align="left" width="25px" src="https://github.com/RakibRyan/RakibRyan/blob/main/triangle-spinner-animation-unscreen.gif"/>Connect with me:</h3>
+<h3 align="left"> Connect with me:</h3>
 
 <p align="left">
 <a href="https://twitter.com/rishavchanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishavchanda" height="30" width="40" /></a>
@@ -56,9 +56,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 </p>
 
 <p align="left"> </p>
-#
 
-<img align="left" width="500px" src="https://github.com/RakibRyan/RakibRyan/blob/main/200w-unseen.gif"/>
 
 #
 <h2><img width="18px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"> Languages and Tools: </h2>
