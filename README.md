@@ -4,7 +4,7 @@
 </p>
 
 
-# 🏄‍♂️ Hi 👋, I'm Ryan <img width ="45px" src="https://github.com/RakibRyan/RakibRyan/blob/main/klein-unseen.gif">Github Trophies</h2>
+# 🏄‍♂️ Hi 👋, I'm Ryan <img width ="45px" src="https://github.com/RakibRyan/RakibRyan/blob/main/klein-unseen.gif">
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`** <img align="center" width="100px" src="https://github.com/RakibRyan/RakibRyan/blob/main/pacman.gif" /> 
 
@@ -123,7 +123,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 
 #
 
-<h2>
+<h2>Github Trophies</h2>
 
 <p align="left" style="padding-right:10px;> <img src="https://komarev.com/ghpvc/?username=rakibryan&label=Profile%20views&color=0e75b6&style=flat" alt="rakibryan" /> </p>
 
