@@ -123,6 +123,8 @@ I'm an indie developer and content creator from Bangladesh building my version o
 
 #
 
+<h2>Github Trophies</h2>
+
 <p align="left" style="padding-right:10px;> <img src="https://komarev.com/ghpvc/?username=rakibryan&label=Profile%20views&color=0e75b6&style=flat" alt="rakibryan" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rakibryan&margin-w=10-ma&row=1-&theme=dracula)](https://github.com/rakibryan/github-profile-trophy)
