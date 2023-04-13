@@ -54,7 +54,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 <a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
 
-<img align="left" width="90px" style="padding-right:5px;" src="https://github.com/RakibRyan/RakibRyan/blob/main/processing.gif" /> <h3 align="left">Languages and Tools:</h3>
+<img align="left" width="70px" src="https://github.com/RakibRyan/RakibRyan/blob/main/processing.gif" /> <h3 align="left">Languages and Tools:</h3>
 
 
 
@@ -105,7 +105,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 
 #
 
-<img align="left" width="35px" src="https://github.com/RakibRyan/RakibRyan/blob/main/Cubes.gif" alt="rakibryan" /><h3>GitHub activity Stats</h3>
+<img align="left" width="35px" src="https://github.com/RakibRyan/RakibRyan/blob/main/Cubes.gif"/><h3>GitHub activity Stats</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibryan&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rakibryan" /></p>
 
