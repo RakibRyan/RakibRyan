@@ -62,7 +62,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 
 #
 
-<img align="left" width="15px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"/> Languages and Tools:
+ <h3> <img width="15px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.png"/> Languages and Tools:</h3>
 
 
 
