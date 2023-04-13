@@ -4,7 +4,7 @@
 </p>
 
 
-# 🏄‍♂️ Hi 👋, I'm Ryan 
+# 🏄‍♂️ Hi 👋, I'm Ryan <img width ="30px" src="https://github.com/RakibRyan/RakibRyan/blob/main/torus.gif">
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`** <img align="center" width="100px" src="https://github.com/RakibRyan/RakibRyan/blob/main/pacman.gif" /> 
 
@@ -114,7 +114,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 
 
 <details>
-<summary><h2><img width ="20px" src="https://github.com/RakibRyan/RakibRyan/blob/main/torus.gif"> Ryan's Coding Journey </h2></summary>
+<summary><h2> Ryan's Coding Journey </h2></summary>
    I started my coding journey as a naive Physics student with a passion to learn how something work. My passion of discovery took me to find out how some logic gates could do such complex things. In search for the answer I found myself at the doorsteps of NandToTetris & Unity. & I fell in love with computer hardware & software. Soon I had a dearm to make my own useful apps & inspiring games. A desire that landed me at the doorsteps of learning unity. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. 
 </details>
 
