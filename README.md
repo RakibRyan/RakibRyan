@@ -59,7 +59,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 
 
 
-<img align="left" width="70px" src="https://github.com/RakibRyan/RakibRyan/blob/main/200w-unseen.gif"/><h3>Languages and Tools:</h3>
+<img align="left" width="70px" src="https://github.com/RakibRyan/RakibRyan/blob/main/200w-unseen.gif"/><h3>Languages and Tools:</h3><img align="left" width="70px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"/>
 
 <p align="left"> 
 
