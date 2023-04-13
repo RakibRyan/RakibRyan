@@ -53,7 +53,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 <a href=" " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href=" " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" " height="30" width="40" /></a>
 <a href=" " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=" " height="30" width="40" /></a> -->
-<a href="https://www.facebook.com/profile.php?id=100082639234533" target="blank"><img align="center" src="https://github.com/RakibRyan/RakibRyan/blob/main/facebook.png" alt="rishav chanda" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100082639234533" target="blank"><img align="center" src="https://github.com/RakibRyan/RakibRyan/blob/main/facebook.png" alt="rishav chanda" height="40" width="40" /></a>
 </p>
 
 <p align="left"> </p>
