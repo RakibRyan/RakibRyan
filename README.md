@@ -1,4 +1,50 @@
-[![MasterHead](https://github.com/RakibRyan/RakibRyan/blob/main/laptop-sand-clock.png)](https://rishavchanda.io)
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Image in a Circle</title>
+    <style>
+        .container {
+            position: relative;
+            width: 100%;
+            height: 100px;
+            background-image: url(https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif);
+            background-position: center;
+            background-size: cover;
+        }
+
+        .circle {
+            position: absolute;
+            left: 50%;
+            bottom: -25%;
+            transform: translate(-50%, 50%);
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            overflow: hidden;
+            z-index: 1;
+        }
+
+        .circle img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="circle">
+            <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif" alt="your_image_alt_text_here">
+        </div>
+    </div>
+</body>
+
+</html>
+
+
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
