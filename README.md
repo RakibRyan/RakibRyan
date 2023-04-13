@@ -77,12 +77,13 @@ I'm an indie developer and content creator building my version of the digital wo
 -->
 
 
+
 <h1 align="center">Hi 👋, I'm Rakib Ryan</h1>
 <h3 align="center">Digital Craftsman</h3>
 
 <p align="left" style="padding-right:10px;> <img src="https://komarev.com/ghpvc/?username=rakibryan&label=Profile%20views&color=0e75b6&style=flat" alt="rakibryan" /> </p>
 
-<p align="left" width="300px" style="padding-right:300px;> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibryan" alt="rakibryan" width="90px" /></a> </p>
+<p align="left" width="300px" style="padding-right:300px;> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rakibryan-ma&margin-w=15" alt="rakibryan" width="90px" /></a> </p>
 
 - 🌱 I’m currently learning **Unity**
 
