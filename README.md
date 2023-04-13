@@ -61,7 +61,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 <img align="left" width="500px" src="https://github.com/RakibRyan/RakibRyan/blob/main/200w-unseen.gif"/>
 
 #
-<h3>Languages and Tools: <img width="20px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"></h3>
+<h3><img width="20px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"> Languages and Tools: </h3>
 
 
 <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> 
