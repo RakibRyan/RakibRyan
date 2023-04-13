@@ -1,5 +1,5 @@
 [![MasterHead](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzA0NWU3N2RjNDUyYWYwMzI3ZTdhMjBjNGU0ZjFhMTg5NzRmZDUwYyZjdD1n/uLL1712sffCdmjPcJC/giphy.gif)](https://rishavchanda.io)
-<iframe src="https://giphy.com/embed/uLL1712sffCdmjPcJC" width="480" height="210" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uLL1712sffCdmjPcJC">via GIPHY</a></p>
+<img src="https://giphy.com/embed/uLL1712sffCdmjPcJC" width="100%"n><a href="https://giphy.com/gifs/uLL1712sffCdmjPcJC">via GIPHY</a></p>
 <h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
