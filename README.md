@@ -116,9 +116,14 @@ I'm an indie developer and content creator from Bangladesh building my version o
    I started my coding journey as a naive Physics student with a passion to learn how something work. My passion of discovery took me to find out how some logic gates could do such complex things. In search for the answer I found myself at the doorsteps of NandToTetris & Unity. & I fell in love with computer hardware & software. Soon I had a dearm to make my own useful apps & inspiring games. A desire that landed me at the doorsteps of learning unity. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. 
 </details>
 
-
-
 </p>
+
+
+#
+
+<p align="left" style="padding-right:10px;> <img src="https://komarev.com/ghpvc/?username=rakibryan&label=Profile%20views&color=0e75b6&style=flat" alt="rakibryan" /> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=rakibryan&margin-w=10-ma&row=1-&theme=dracula)](https://github.com/rakibryan/github-profile-trophy)
 
 
 #
@@ -171,9 +176,6 @@ I'm an indie developer and content creator from Bangladesh building my version o
 
 
 
-<p align="left" style="padding-right:10px;> <img src="https://komarev.com/ghpvc/?username=rakibryan&label=Profile%20views&color=0e75b6&style=flat" alt="rakibryan" /> </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=rakibryan&margin-w=10-ma&row=1-&theme=dracula)](https://github.com/rakibryan/github-profile-trophy)
 
 
 #
