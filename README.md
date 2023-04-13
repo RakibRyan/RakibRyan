@@ -54,7 +54,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 <a href="https://www.youtube.com/c/rishav chanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rishav chanda" height="30" width="40" /></a>
 </p>
 
-<img align="left" width="30px" style="padding-right:10px;" src="https://github.com/RakibRyan/RakibRyan/blob/main/box-break.gif" /> <h3 align="left">Languages and Tools:</h3>
+<img align="left" width="50px" style="padding-right:10px;" src="https://github.com/RakibRyan/RakibRyan/blob/main/box-break.gif" /> <h3 align="left">Languages and Tools:</h3>
 
 
 
