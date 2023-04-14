@@ -59,11 +59,9 @@ I'm an indie developer and content creator from Bangladesh building my version o
 <a href="https://www.facebook.com/profile.php?id=100082639234533" target="blank"><img align="center" src="https://github.com/RakibRyan/RakibRyan/blob/main/facebook.png" alt="rishav chanda" height="40" width="40" /></a>
 </p>
 
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-<a href=">
 <p align="left"> </p>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 #
 <h1><img width="24px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"> Languages and Tools: </h1>
@@ -134,6 +132,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 
 
 
+<a href=">
 
 
 #
