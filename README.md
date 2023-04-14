@@ -63,6 +63,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 
 #
 <h2> Quote of the day </h2>
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 #
