@@ -25,6 +25,8 @@ I'm an indie developer and content creator from Bangladesh building my version o
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rakibryan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
 #
 
 
