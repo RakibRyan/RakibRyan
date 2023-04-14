@@ -64,7 +64,12 @@ I'm an indie developer and content creator from Bangladesh building my version o
 #
 <h2> Quote of the day </h2>
 
+
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+
 
 #
 <h1><img width="24px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"> Languages and Tools: </h1>
