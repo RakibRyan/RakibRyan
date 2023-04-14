@@ -25,7 +25,6 @@ I'm an indie developer and content creator from Bangladesh building my version o
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/rakibryan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 #
 
@@ -129,6 +128,10 @@ I'm an indie developer and content creator from Bangladesh building my version o
 <p align="left" style="padding-right:10px;> <img src="https://komarev.com/ghpvc/?username=rakibryan&label=Profile%20views&color=0e75b6&style=flat" alt="rakibryan" /> </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=rakibryan&margin-w=10-ma&row=1-&theme=dracula)](https://github.com/rakibryan/github-profile-trophy)
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+<a href=">
 
 
 #
