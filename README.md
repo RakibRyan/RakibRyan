@@ -39,7 +39,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 -  🌱I’m currently working on **Buckoid Android App**
 -->
 
-- 🔭 I’m currently learning **Unity**
+- 🔭 I’m currently learning <del>**Unity**</del> Godot
 <!--
 - 💬 Ask me about **Android , **
 -->
