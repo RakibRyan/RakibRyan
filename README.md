@@ -18,7 +18,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
          <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="  ">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-   -->
+
       <a href="https://github.com/RakibRyan?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/rakibryan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/RakibRyan?tab=repositories&sort=stargazers">
@@ -49,16 +49,16 @@ I'm an indie developer and content creator from Bangladesh building my version o
 - ⚡ Fun fact **I can speak three different languages fluently.**
 
 <!--
-<h2><img width="18px" src="https://github.com/RakibRyan/RakibRyan/blob/main/connectivity.png"> Connect with me: </h2>
-
+<h2><img width="18px" src="https://github.com/RakibRyan/RakibRyan/blob/main/connectivity.png"> Connect with me: </h2>-->
+<!--
 <p align="left">
 <!--
 <a href=" " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="30" width="40" /></a>
 <a href=" " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" " height="30" width="40" /></a>
-<a href=" " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=" " height="30" width="40" /></a> -->
+<a href=" " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt=" " height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100082639234533" target="blank"><img align="center" src="https://github.com/RakibRyan/RakibRyan/blob/main/facebook.png" alt="rishav chanda" height="40" width="40" /></a>
 </p>
--->
+ -->
 <p align="left"> </p>
 
 #
