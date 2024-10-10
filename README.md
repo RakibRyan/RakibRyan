@@ -43,7 +43,7 @@ I'm an indie developer and content creator from Bangladesh building my version o
 <!--
 - 💬 Ask me about **Android , **
 -->
-- 📫 How to reach me **rakib.remon12@gmail.com**
+- 📫 How to reach me **rakibryan@duck.com**
 - 👨‍💻 All of my projects are available [here](https://github.com/RakibRyan)
 
 - ⚡ Fun fact **I can speak three different languages fluently.**
